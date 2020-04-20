@@ -16,7 +16,7 @@
  *
  */
 
-$l['report_reason'] = '举报原因：';
+$l['report_reason'] = '举报缘由：';
 $l['report_to_mod'] = '向版主举报';
 $l['close_window'] = '关闭';
 $l['report_content'] = '举报该内容';
@@ -31,7 +31,7 @@ $l['report_reason_other'] = '其它原因';
 $l['success_report_voted'] = '感谢您举报此内容。<br />管理团队将尽快处理您的举报。';
 $l['error_report_length'] = '请您提供具体的举报原因。';
 $l['error_invalid_report'] = '{1}不存在或不允许被举报。';
-$l['error_invalid_report_reason'] = '您选择的举报原因无效。';
+$l['error_invalid_report_reason'] = '您选择的举报缘由无效。';
 $l['error_comment_required'] = '您必须为该举报提供额外的信息。';
 $l['error_report_duplicate'] = '该内容已被其他用户举报过了。<br />当然，您也可继续为其添加额外的举报。';
 $l['report_reason_other_description'] = '请为本次举报提供详细的原因。';
