@@ -9,7 +9,7 @@
  * @license   GNU Lesser General Public License v3.0
  *
  * Friendly Language Name: 简体中文（中国）
- * Requires MyBB Version:  1822
+ * Requires MyBB Version:  1823
  * Language Pack URI:      https://github.com/yuliu/mybb-language-packs-chinese
  * Language Pack Author:   Yu 'noyle' Liu
  * Author URI:             https://github.com/yuliu
@@ -19,13 +19,6 @@
 $l['nav_helpdocs'] = '帮助文档';
 $l['nav_smilies'] = '表情列表';
 $l['nav_syndication'] = '最新主题聚合';
-$l['skype'] = 'Skype';
-$l['skype_center'] = 'Skype Center';
-$l['chat_on_skype'] = '在Skype与{1}聊天';
-$l['call_on_skype'] = '在Skype向{1}拨打电话';
-$l['send_me_instant'] = '向我发送即时信息';
-$l['add_me_buddy_list'] = '将我添加为好友';
-$l['add_remote_to_page'] = '新增 Remote 到你的页面';
 $l['buddy_list'] = '好友列表';
 $l['online'] = '在线';
 $l['online_none'] = '<em>无在线好友</em>';
@@ -82,7 +75,6 @@ $l['redirect_forumpasscleared'] = '用于访问本论坛的已保存密码已清
 $l['redirect_cookiescleared'] = '已清除本论坛生成的所有Cookies。';
 $l['error_invalidforum'] = '无效的论坛';
 $l['error_invalidhelpdoc'] = '您请求的帮助文档不存在。';
-$l['error_invalidimtype'] = '此用户没有在他们的侧影中指定的此类型的即时通讯帐户。';
 $l['error_invalidsearch'] = '您的搜索请求无效，请返回上一页再试。';
 $l['error_no_search_support'] = '对不起，本论坛所使用的数据库引擎不支持该搜索请求。';
 $l['error_searchflooding'] = '您的搜索请求提交过快！距离上次搜索须间隔{1}秒以上。请稍后{2}秒后再试。';

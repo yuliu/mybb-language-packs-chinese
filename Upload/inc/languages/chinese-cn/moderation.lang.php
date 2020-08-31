@@ -9,7 +9,7 @@
  * @license   GNU Lesser General Public License v3.0
  *
  * Friendly Language Name: 简体中文（中国）
- * Requires MyBB Version:  1822
+ * Requires MyBB Version:  1823
  * Language Pack URI:      https://github.com/yuliu/mybb-language-packs-chinese
  * Language Pack Author:   Yu 'noyle' Liu
  * Author URI:             https://github.com/yuliu
@@ -147,7 +147,7 @@ $l['stick_unstick_thread'] = '置顶主题 / 解除置顶';
 $l['save_delayed_moderation'] = '添加计划任务';
 $l['custom'] = '自定义';
 $l['delayed_mod_queue'] = '已计划的管理操作';
-$l['days_to_perform_action'] = '执行操作时间';
+$l['time_to_perform_action'] = '执行操作时间';
 $l['leave_redirect'] = '创建跳转链接：';
 $l['multiple_threads'] = '多个主题';
 $l['actions'] = '操作';

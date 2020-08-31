@@ -9,7 +9,7 @@
  * @license   GNU Lesser General Public License v3.0
  *
  * Friendly Language Name: 简体中文（中国）
- * Requires MyBB Version:  1822
+ * Requires MyBB Version:  1823
  * Language Pack URI:      https://github.com/yuliu/mybb-language-packs-chinese
  * Language Pack Author:   Yu 'noyle' Liu
  * Author URI:             https://github.com/yuliu
@@ -135,8 +135,8 @@ $l['dst_correction_enabled'] = '总是开启夏令时';
 $l['dst_correction_disabled'] = '总是关闭夏令时';
 $l['redirect_registered_coppa_activate'] = '{2}，感谢您注册{1}！您已成功注册了本论坛的会员账户。由于您未满13周岁，本论坛需要经您的家长或监护人许可后，才允许您正常使用您的会员账户。<br /><br />本论坛需要您的家长或法定监护人下载、填写，并向我们提交一份<a href="member.php?action=coppa_form">《儿童在线隐私权保护法（COPPA）承诺与权限》</a>文件的完整副本。<br /><br />一旦我们收到并审核了您提交的《儿童在线隐私权保护法（COPPA）承诺与权限》的完整副本，我们将为您启用您的会员账户。';
 $l['coppa_compliance'] = '儿童在线隐私保护法（COPPA）承诺';
-$l['coppa_desc'] = '为遵守<a href="http://coppa.org/" title="儿童在线隐私保护法" target="_blank" rel="noopener">儿童在线隐私保护法（COPPA）</a>的要求，我们需要验证您的年龄以继续论坛注册。请您在下面输入您的出生日期。<br /><br />如果您未满13周岁，您须获得您的家长或监护人的许可，才可注册本论坛。您的家长或法定监护人需要下载、填写，并向我们提交一份<a href="member.php?action=coppa_form">《儿童在线隐私权保护法（COPPA）承诺与权限》</a>文件的完整副本。';
-$l['coppa_desc_for_deny'] = '为遵守<a href="http://coppa.org/" title="儿童在线隐私保护法" target="_blank" rel="noopener">儿童在线隐私保护法（COPPA）</a>的要求，我们需要验证您的年龄以继续论坛注册。请您在下面输入您的出生日期。';
+$l['coppa_desc'] = '为遵守<a href="https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule" title="儿童在线隐私保护法（COPPA）" target="_blank" rel="noopener">[英文]儿童在线隐私保护法（COPPA）</a>的要求，我们需要验证您的年龄以继续论坛注册。请您在下面输入您的出生日期。<br /><br />如果您未满13周岁，您须获得您的家长或监护人的许可，才可注册本论坛。您的家长或法定监护人需要下载、填写，并向我们提交一份<a href="member.php?action=coppa_form">《儿童在线隐私权保护法（COPPA）承诺与权限》</a>文件的完整副本。';
+$l['coppa_desc_for_deny'] = '为遵守<a href="https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule" title="儿童在线隐私保护法（COPPA）" target="_blank" rel="noopener">[英文]儿童在线隐私保护法（COPPA）</a>的要求，我们需要验证您的年龄以继续论坛注册。请您在下面输入您的出生日期。';
 $l['hide_dob'] = '在完成注册后，您可在控制面板中设置并隐藏出生日期或年龄。';
 $l['signature'] = '签名档：';
 $l['continue_registration'] = '继续注册';
@@ -269,3 +269,6 @@ $l['newregistration_message'] = '{1}，您好！
 
 谢谢您，
 {2} 管理团队';
+$l['referrals_invalid_user'] = '指定的用户不存在。';
+$l['admin_lift_ban_in_acp'] = '解除禁止（管理员面板）';
+$l['admin_edit_ban_in_acp'] = '编辑禁止（管理员面板）';

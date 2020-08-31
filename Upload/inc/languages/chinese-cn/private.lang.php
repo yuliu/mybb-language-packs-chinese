@@ -9,7 +9,7 @@
  * @license   GNU Lesser General Public License v3.0
  *
  * Friendly Language Name: 简体中文（中国）
- * Requires MyBB Version:  1822
+ * Requires MyBB Version:  1823
  * Language Pack URI:      https://github.com/yuliu/mybb-language-packs-chinese
  * Language Pack Author:   Yu 'noyle' Liu
  * Author URI:             https://github.com/yuliu
@@ -202,3 +202,4 @@ $l['quickreply_signature'] = '显示签名档';
 $l['quickreply_disable_smilies'] = '禁用表情';
 $l['quickreply_save_copy'] = '同时保存至已发送私信';
 $l['quickreply_read_receipt'] = '<strong>已读回执</strong>';
+$l['error_invalidmovefid'] = '无法将私信移动至您指定的信箱，该信箱无效。请返回上一页重试。';

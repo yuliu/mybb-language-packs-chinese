@@ -9,7 +9,7 @@
  * @license   GNU Lesser General Public License v3.0
  *
  * Friendly Language Name: 简体中文（中国）
- * Requires MyBB Version:  1822
+ * Requires MyBB Version:  1823
  * Language Pack URI:      https://github.com/yuliu/mybb-language-packs-chinese
  * Language Pack Author:   Yu 'noyle' Liu
  * Author URI:             https://github.com/yuliu
@@ -61,7 +61,7 @@ $l['error_invalidusername'] = '您输入的用户名无效。';
 $l['error_invalidpassword'] = '您输入的密码无效，请返回上一页再试。<br /><br />如您遗忘了密码，请通过<a href="member.php?action=lostpw">忘记密码</a>功能获取新密码。';
 $l['error_postflooding'] = '对不起，您发帖过快，论坛未能处理您的发布。论坛设置了发帖最小间隔为{1}秒。';
 $l['error_nopermission_guest_1'] = '您没有权限访问此页面。可能的原因如下：';
-$l['error_nopermission_guest_2'] = '您未登录您的账户。请您从本页登录以继续访问此页面。';
+$l['error_nopermission_guest_2'] = '您尚未登录。请登录以继续访问。';
 $l['error_nopermission_guest_3'] = '如您已登录，您的账户没有访问此页面的权限。';
 $l['error_nopermission_guest_4'] = '您的账户已被禁用或尚未激活，未拥有访问此页面的权限。';
 $l['error_nopermission_guest_5'] = '您请求此页面的方式不正确。';
@@ -281,7 +281,7 @@ $l['email_forumsubscription'] = '{1}，您好！
 取消订阅：
 
 您可以通过以下链接为该论坛版面取消订阅，这样您将不会再通过电子邮件接收到该版面的新主题通知：
-{7}/usercp.php?action=removesubscription&type=forum&fid={9}&my_post_key={10}
+{7}/usercp.php?action=removesubscription&type=forum&fid={9}
 ------------------------------------------';
 $l['email_activateaccount'] = '{1}，您好！
 
@@ -350,7 +350,7 @@ $l['email_subscription'] = '{1}，您好！
 取消订阅：
 
 您可以通过以下链接为该主题取消订阅，这样您将不会再通过电子邮件接收到该主题的新通知：
-{6}/usercp.php?action=removesubscription&tid={8}&my_post_key={9}
+{6}/usercp.php?action=removesubscription&tid={8}
 ------------------------------------------';
 $l['email_reachedpmquota'] = '{1}，您好！
 
@@ -483,7 +483,7 @@ $l['pm_subscription'] = '{1}，您好！
 取消订阅：
 
 您可以通过以下链接为该主题取消订阅，这样您将不会再通过私信接收到该主题的新回复通知：
-[url]{5}/usercp.php?action=removesubscription&tid={7}&my_post_key={8}[/url]
+[url]{5}/usercp.php?action=removesubscription&tid={7}[/url]
 ------------------------------------------';
 $l['email_broken_task_subject'] = '{1} - 计划任务错误';
 $l['email_broken_task'] = '您在{1}（{2}）上运行的论坛在执行计划任务时遇到错误。

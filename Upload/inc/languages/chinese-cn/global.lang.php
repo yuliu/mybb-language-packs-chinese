@@ -9,7 +9,7 @@
  * @license   GNU Lesser General Public License v3.0
  *
  * Friendly Language Name: 简体中文（中国）
- * Requires MyBB Version:  1822
+ * Requires MyBB Version:  1823
  * Language Pack URI:      https://github.com/yuliu/mybb-language-packs-chinese
  * Language Pack Author:   Yu 'noyle' Liu
  * Author URI:             https://github.com/yuliu
@@ -552,3 +552,7 @@ $l['sfs_error_ip'] = 'IP地址';
 $l['sfs_error_email'] = '电子邮件';
 $l['sfs_error_or'] = '或';
 $l['boardclosed_reason'] = '论坛正在维护中，请稍候回来！';
+$l['ratings_update_error'] = '更新评分时发生错误。';
+$l['invalid_hcaptcha'] = '请您完成以下hCAPTCHA测试，以确保您不是机器人。';
+$l['verification_note_hcaptcha'] = '为防止自动注册发帖机，请勾选下面的复选框。';
+$l['invalid_hcaptcha_transmit'] = '真人验证错误！请重试。';

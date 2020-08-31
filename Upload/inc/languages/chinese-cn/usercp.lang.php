@@ -9,7 +9,7 @@
  * @license   GNU Lesser General Public License v3.0
  *
  * Friendly Language Name: 简体中文（中国）
- * Requires MyBB Version:  1822
+ * Requires MyBB Version:  1823
  * Language Pack URI:      https://github.com/yuliu/mybb-language-packs-chinese
  * Language Pack Author:   Yu 'noyle' Liu
  * Author URI:             https://github.com/yuliu
@@ -433,3 +433,14 @@ $l['buddyrequest_accepted'] = '您接受了该好友申请。';
 $l['buddyrequest_declined'] = '您拒绝了该好友申请。';
 $l['user_doesnt_exist'] = '论坛无法完成您的请求，你指定的用户已不再是本论坛的注册用户。';
 $l['buddyrequests_sent_success'] = '已成功发送了好友申请。';
+$l['nav_removesubscription'] = '取消订阅';
+$l['contact_field_error'] = '您输入的Google或Skype联系信息过长（超过75个字符）。';
+$l['contact_field_icqerror'] = '您输入的ICQ号码过长（超过10个字符）。';
+$l['error_avatarurltoolong'] = '论坛未能为您更新头像，您指定的头像图片链接过长（超过200个字符）。';
+$l['unsubscribe_from_forum'] = '取消订阅论坛：{1}';
+$l['unsubscribe_from_forum_desc'] = '确认要取消订阅该论坛吗？取消订阅该论坛后，您将不会再接收到该论坛有新帖子的通知。';
+$l['unsubscribe_from_thread'] = '取消订阅主题：{1}';
+$l['unsubscribe_from_thread_desc'] = '确认要取消订阅该主题吗？取消订阅该主题后，您将不会再接收到该主题有新回复的通知。';
+$l['unsubscribe_change_notificaton'] = '更改通知方式';
+$l['do_unsubscribe_forum'] = '取消订阅论坛';
+$l['do_unsubscribe_thread'] = '取消订阅主题';

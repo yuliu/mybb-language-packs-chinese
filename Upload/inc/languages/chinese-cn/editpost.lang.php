@@ -9,7 +9,7 @@
  * @license   GNU Lesser General Public License v3.0
  *
  * Friendly Language Name: 简体中文（中国）
- * Requires MyBB Version:  1822
+ * Requires MyBB Version:  1823
  * Language Pack URI:      https://github.com/yuliu/mybb-language-packs-chinese
  * Language Pack Author:   Yu 'noyle' Liu
  * Author URI:             https://github.com/yuliu
@@ -23,7 +23,7 @@ $l['delete_q'] = '确实要永久性地删除本帖吗？';
 $l['delete_1'] = '要删除该帖子，请勾选左侧的复选框，然后点击右侧的按钮。';
 $l['delete_2'] = '<strong>注意：</strong>若本帖是其所在主题中的第一帖，删除本帖将会删除整个主题。';
 $l['subject'] = '帖子标题：';
-$l['your_message'] = '帖子内容';
+$l['your_message'] = '帖子内容：';
 $l['post_options'] = '帖子选项：';
 $l['editreason'] = '编辑帖子的原因：';
 $l['options_sig'] = '<strong>显示签名档：</strong>在帖子下方显示您的个人签名档。（仅对已注册用户有效）';

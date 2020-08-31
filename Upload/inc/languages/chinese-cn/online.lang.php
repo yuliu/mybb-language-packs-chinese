@@ -9,7 +9,7 @@
  * @license   GNU Lesser General Public License v3.0
  *
  * Friendly Language Name: 简体中文（中国）
- * Requires MyBB Version:  1822
+ * Requires MyBB Version:  1823
  * Language Pack URI:      https://github.com/yuliu/mybb-language-packs-chinese
  * Language Pack Author:   Yu 'noyle' Liu
  * Author URI:             https://github.com/yuliu
@@ -116,7 +116,6 @@ $l['members_were_online_today'] = '最近一天内，有<strong>{1}</strong>位�
 $l['member_online_hidden'] = '（{1}位会员隐身）';
 $l['members_online_hidden'] = '（{1}位会员隐身）';
 $l['rating_thread'] = '正在对主题评分';
-$l['viewing_imcenter'] = '正在查看即时通讯软件中心';
 $l['managing_favorites'] = '正在管理主题收藏';
 $l['managing_subscriptions'] = '正在管理主题订阅';
 $l['managing_group'] = '正在管理用户组';
