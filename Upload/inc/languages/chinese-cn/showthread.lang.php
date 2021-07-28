@@ -5,11 +5,11 @@
  * @language  chinese-cn
  * @link      https://github.com/yuliu/mybb-language-packs-chinese
  * @author    Yu 'noyle' Liu
- * @copyright 2020 Yu 'noyle' Liu
+ * @copyright 2021 Yu 'noyle' Liu
  * @license   GNU Lesser General Public License v3.0
  *
  * Friendly Language Name: 简体中文（中国）
- * Requires MyBB Version:  1823
+ * Requires MyBB Version:  1827
  * Language Pack URI:      https://github.com/yuliu/mybb-language-packs-chinese
  * Language Pack Author:   Yu 'noyle' Liu
  * Author URI:             https://github.com/yuliu
@@ -23,7 +23,6 @@ $l['author'] = '作者';
 $l['message'] = '内容';
 $l['threaded'] = '树形模式';
 $l['linear'] = '平板模式';
-$l['thread_modes'] = '主题模式';
 $l['next_oldest'] = '较早主题';
 $l['next_newest'] = '较新主题';
 $l['view_printable'] = '查看打印版本';

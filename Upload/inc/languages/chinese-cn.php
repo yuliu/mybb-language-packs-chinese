@@ -9,7 +9,7 @@ $langinfo['author'] = "Yu 'noyle' Liu";
 $langinfo['website'] = "https://github.com/yuliu/mybb-language-packs-chinese";
 
 // Compatible version of MyBB
-$langinfo['version'] = "1823";
+$langinfo['version'] = "1827";
 
 // Sets if the translation includes the Admin CP (1 = yes, 0 = no)
 $langinfo['admin'] = 0;

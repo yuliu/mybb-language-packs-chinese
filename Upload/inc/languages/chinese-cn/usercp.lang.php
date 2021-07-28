@@ -5,11 +5,11 @@
  * @language  chinese-cn
  * @link      https://github.com/yuliu/mybb-language-packs-chinese
  * @author    Yu 'noyle' Liu
- * @copyright 2020 Yu 'noyle' Liu
+ * @copyright 2021 Yu 'noyle' Liu
  * @license   GNU Lesser General Public License v3.0
  *
  * Friendly Language Name: 简体中文（中国）
- * Requires MyBB Version:  1823
+ * Requires MyBB Version:  1827
  * Language Pack URI:      https://github.com/yuliu/mybb-language-packs-chinese
  * Language Pack Author:   Yu 'noyle' Liu
  * Author URI:             https://github.com/yuliu
@@ -157,7 +157,6 @@ $l['show_redirect'] = '开启论坛提示转向页面。';
 $l['thread_view_options'] = '主题显示设定';
 $l['thread_mode'] = '主题显示模式：';
 $l['thread_mode_desc'] = '显示主题的模式。选择“使用论坛默认设置”将使用本论坛的全局设置。';
-$l['use_default'] = '使用论坛默认设置';
 $l['threaded'] = '树形模式';
 $l['linear'] = '平板模式';
 $l['show_classic_postbit'] = '以经典论坛样式显示帖子。';
@@ -444,3 +443,5 @@ $l['unsubscribe_from_thread_desc'] = '确认要取消订阅该主题吗？取消
 $l['unsubscribe_change_notificaton'] = '更改通知方式';
 $l['do_unsubscribe_forum'] = '取消订阅论坛';
 $l['do_unsubscribe_thread'] = '取消订阅主题';
+$l['error_avatarimagemissing'] = '论坛未能为您更新头像，请选择要设置为头像的文件后再试。';
+$l['goto_first_unread'] = '转至第一个未读的帖子';

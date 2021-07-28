@@ -5,11 +5,11 @@
  * @language  chinese-cn
  * @link      https://github.com/yuliu/mybb-language-packs-chinese
  * @author    Yu 'noyle' Liu
- * @copyright 2020 Yu 'noyle' Liu
+ * @copyright 2021 Yu 'noyle' Liu
  * @license   GNU Lesser General Public License v3.0
  *
  * Friendly Language Name: 简体中文（中国）
- * Requires MyBB Version:  1823
+ * Requires MyBB Version:  1827
  * Language Pack URI:      https://github.com/yuliu/mybb-language-packs-chinese
  * Language Pack Author:   Yu 'noyle' Liu
  * Author URI:             https://github.com/yuliu
@@ -239,14 +239,10 @@ $l['js_validator_email_match'] = '必须输入相同的电子邮件地址';
 $l['js_validator_no_image_text'] = '必须输入图片中的字符';
 $l['js_validator_no_security_question'] = '必须输入该问题的答案';
 $l['js_validator_password_matches'] = '两次输入的密码不符';
-$l['js_validator_password_complexity'] = '正在检查密码复杂度';
 $l['js_validator_password_length'] = '您的密码长度不可少于{1}个字符';
 $l['js_validator_bad_password_security'] = '您输入的密码与您的用户名或电子邮件地址相似。请选择更复杂的密码。';
 $l['js_validator_not_empty'] = '该项必填或必选';
-$l['js_validator_checking_username'] = '正在检查用户名是否可用';
 $l['js_validator_username_length'] = '用户名长度应介于{1}至{2}个字符';
-$l['js_validator_checking_referrer'] = '正在检查您指定的推荐用户';
-$l['js_validator_captcha_valid'] = '正在检查图形验证代码是否正确';
 $l['security_question'] = '验证问答';
 $l['question_note'] = '为防止自动注册，请您回答该问题。';
 $l['error_question_wrong'] = '您提交的答案不正确，请重试。';

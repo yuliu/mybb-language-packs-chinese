@@ -5,11 +5,11 @@
  * @language  chinese-cn
  * @link      https://github.com/yuliu/mybb-language-packs-chinese
  * @author    Yu 'noyle' Liu
- * @copyright 2020 Yu 'noyle' Liu
+ * @copyright 2021 Yu 'noyle' Liu
  * @license   GNU Lesser General Public License v3.0
  *
  * Friendly Language Name: 简体中文（中国）
- * Requires MyBB Version:  1823
+ * Requires MyBB Version:  1827
  * Language Pack URI:      https://github.com/yuliu/mybb-language-packs-chinese
  * Language Pack Author:   Yu 'noyle' Liu
  * Author URI:             https://github.com/yuliu
@@ -492,3 +492,5 @@ $l['email_broken_task'] = '您在{1}（{2}）上运行的论坛在执行计划�
 
 该计划任务已停用。';
 $l['error_attach_filename_length'] = '附件文件名长度超过了{2}，请以较短的文件名重新上传。<br /><em>该附件文件名为：</em><strong>{1}</strong>';
+$l['update_confirm'] = '以下附件已存在，您确认将它们替换为新选择的文件吗？{1}';
+$l['error_updatefailed'] = '附件“{1}”不存在，无法完成更新操作。如需添加该附件，请将其上传。';

@@ -5,11 +5,11 @@
  * @language  chinese-cn
  * @link      https://github.com/yuliu/mybb-language-packs-chinese
  * @author    Yu 'noyle' Liu
- * @copyright 2020 Yu 'noyle' Liu
+ * @copyright 2021 Yu 'noyle' Liu
  * @license   GNU Lesser General Public License v3.0
  *
  * Friendly Language Name: 简体中文（中国）
- * Requires MyBB Version:  1823
+ * Requires MyBB Version:  1827
  * Language Pack URI:      https://github.com/yuliu/mybb-language-packs-chinese
  * Language Pack Author:   Yu 'noyle' Liu
  * Author URI:             https://github.com/yuliu
@@ -37,7 +37,7 @@ $l['userdata_invalid_icq_number'] = '您输入的ICQ是无效的，如您没有I
 $l['userdata_invalid_birthday'] = '您输入的出生日期是无效的，请输入您的出生日期，或将该项留空。';
 $l['userdata_invalid_birthday_coppa'] = '根据COPPA的要求，论坛需要验证您的年龄。请输入您的出生年。您可稍后在控制面板中对其进行更改和设置，以隐藏您的出生日期或年龄。';
 $l['userdata_invalid_birthday_coppa2'] = '论坛仅接受年满13周岁的用户注册为会员。如有更多疑问，请联系管理团队。';
-$l['userdata_invalid_birthday_privacy'] = '请为您的出生日期及年龄的显示设置隐私权限。';
+$l['userdata_invalid_birthday_privacy'] = '请为您的生日隐私设置显示权限。';
 $l['userdata_invalid_referrer'] = '您所输入的推荐人用户并不是本论坛的注册会员。如您不确定，请将该项留空。';
 $l['userdata_invalid_language'] = '您选择的语言尚未启用，请选择其它语言。';
 $l['userdata_invalid_style'] = '您选择的风格是无效的，请选择其它风格。';
@@ -55,3 +55,4 @@ $l['userdata_too_many_sig_images2'] = '<strong>注意：</strong>签名档最多
 $l['userdata_sig_too_long'] = '签名档未保存！您欲设置的签名档过长，请删除部分内容后再次提交（长度不超过{1}个字符）。';
 $l['userdata_sig_remove_chars_plural'] = '请删除{1}个字符后再试。';
 $l['userdata_sig_remove_chars_singular'] = '请删除1个字符后再试。';
+$l['userdata_conflicted_birthday_privacy'] = '如您将生日隐私设置为仅显示年龄，则请指定您的出生年份。';

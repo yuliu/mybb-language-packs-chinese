@@ -5,11 +5,11 @@
  * @language  chinese-cn
  * @link      https://github.com/yuliu/mybb-language-packs-chinese
  * @author    Yu 'noyle' Liu
- * @copyright 2020 Yu 'noyle' Liu
+ * @copyright 2021 Yu 'noyle' Liu
  * @license   GNU Lesser General Public License v3.0
  *
  * Friendly Language Name: 简体中文（中国）
- * Requires MyBB Version:  1823
+ * Requires MyBB Version:  1827
  * Language Pack URI:      https://github.com/yuliu/mybb-language-packs-chinese
  * Language Pack Author:   Yu 'noyle' Liu
  * Author URI:             https://github.com/yuliu
@@ -316,8 +316,8 @@ $l['unapproved_attachment'] = '待审核附件(1)';
 $l['unapproved_attachments'] = '待审核附件({1})';
 $l['unread_report'] = '待处理举报(1)';
 $l['unread_reports'] = '待处理举报({1})';
-$l['pending_joinrequest'] = '用户组组长通知：有1个成员加入申请待处理。';
-$l['pending_joinrequests'] = '用户组组长通知：有{1}个成员加入申请待处理。';
+$l['pending_joinrequest'] = '有1个成员加入申请待处理。';
+$l['pending_joinrequests'] = '有{1}个成员加入申请待处理。';
 $l['search_user'] = '查找用户';
 $l['year'] = '年';
 $l['year_short'] = '年';
@@ -556,3 +556,13 @@ $l['ratings_update_error'] = '更新评分时发生错误。';
 $l['invalid_hcaptcha'] = '请您完成以下hCAPTCHA测试，以确保您不是机器人。';
 $l['verification_note_hcaptcha'] = '为防止自动注册发帖机，请勾选下面的复选框。';
 $l['invalid_hcaptcha_transmit'] = '真人验证错误！请重试。';
+$l['attachment_missing'] = '您未提供需要添加的附件。';
+$l['attachment_max_allowed_files'] = '您还可添加{1}个附件。';
+$l['drop_files'] = '点击此处或将文件拖拽至此以添加附件';
+$l['upload_initiate'] = '释放鼠标按键并开始上传附件';
+$l['confirm_title'] = '请确认';
+$l['groupleader_notice'] = '用户组组长通知：';
+$l['task_sendmailqueue_ran'] = '计划任务成功执行：发送了{1}条信息/邮件。';
+$l['expcol_collapse'] = '[-]';
+$l['expcol_expand'] = '[+]';
+$l['use_default'] = '使用默认设置';
