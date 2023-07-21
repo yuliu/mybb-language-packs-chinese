@@ -5,11 +5,11 @@
  * @language  chinese-cn
  * @link      https://github.com/yuliu/mybb-language-packs-chinese
  * @author    Yu 'noyle' Liu
- * @copyright 2021 Yu 'noyle' Liu
+ * @copyright 2023 Yu 'noyle' Liu
  * @license   GNU Lesser General Public License v3.0
  *
  * Friendly Language Name: 简体中文（中国）
- * Requires MyBB Version:  1827
+ * Requires MyBB Version:  1833
  * Language Pack URI:      https://github.com/yuliu/mybb-language-packs-chinese
  * Language Pack Author:   Yu 'noyle' Liu
  * Author URI:             https://github.com/yuliu
@@ -138,6 +138,7 @@ $l['birthdate'] = '生日：';
 $l['icq_number'] = 'ICQ：';
 $l['skype_id'] = 'Skype：';
 $l['google_id'] = 'Google Hangouts：';
+$l['away_notice_away'] = '自{1}开始，您已设置为离开状态。';
 $l['away_notice'] = '设置该选项以标记用户的状态是否为离开。<strong>注意：</strong>该选项不是隐身状态设置。';
 $l['additional_information'] = '其它信息';
 $l['update_profile'] = '更新个人信息';
