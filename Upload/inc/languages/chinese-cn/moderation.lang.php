@@ -5,11 +5,11 @@
  * @language  chinese-cn
  * @link      https://github.com/yuliu/mybb-language-packs-chinese
  * @author    Yu 'noyle' Liu
- * @copyright 2021 Yu 'noyle' Liu
+ * @copyright 2024 Yu 'noyle' Liu
  * @license   GNU Lesser General Public License v3.0
  *
  * Friendly Language Name: 简体中文（中国）
- * Requires MyBB Version:  1827
+ * Requires MyBB Version:  1838
  * Language Pack URI:      https://github.com/yuliu/mybb-language-packs-chinese
  * Language Pack Author:   Yu 'noyle' Liu
  * Author URI:             https://github.com/yuliu
@@ -165,7 +165,7 @@ $l['purgespammer_success'] = '该用户已被清理。';
 $l['purgespammer_invalid_user'] = '您欲清理的垃圾用户是无效的。';
 $l['purgespammer_modlog'] = '清理垃圾用户';
 $l['error_invalidpm'] = '无效的站内私信';
-$l['error_nomergeposts'] = '欲合并帖子，您需要选择至少一个帖子。';
+$l['error_nomergeposts'] = '欲合并帖子，您需要选择至少2个帖子。';
 $l['error_cantsplitonepost'] = '仅包含一个帖子的主题无法被分割。';
 $l['error_badmergeurl'] = '您欲合并的主题链接似乎是无效的。<br />请返回上一页确认后再试。';
 $l['error_badmovepostsurl'] = '您欲移动的主题链接似乎是无效的。<br />请返回上一页确认后再试。';

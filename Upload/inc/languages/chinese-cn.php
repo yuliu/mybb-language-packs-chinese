@@ -9,7 +9,7 @@
  * @license   GNU Lesser General Public License v3.0
  *
  * Friendly Language Name: 简体中文（中国）
- * Requires MyBB Version:  1835
+ * Requires MyBB Version:  1838
  * Language Pack URI:      https://github.com/yuliu/mybb-language-packs-chinese
  * Language Pack Author:   Yu 'noyle' Liu
  * Author URI:             https://github.com/yuliu
@@ -38,7 +38,7 @@ $langinfo['website'] = "https://github.com/yuliu/mybb-language-packs-chinese";
 //$langinfo['additional_name'] = " ";
 
 // Compatible version of MyBB
-$langinfo['version'] = "1835";
+$langinfo['version'] = "1838";
 
 // Sets if the translation includes the Admin CP (1 = yes, 0 = no)
 $langinfo['admin'] = 0;

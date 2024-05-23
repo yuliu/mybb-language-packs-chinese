@@ -5,11 +5,11 @@
  * @language  chinese-cn
  * @link      https://github.com/yuliu/mybb-language-packs-chinese
  * @author    Yu 'noyle' Liu
- * @copyright 2021 Yu 'noyle' Liu
+ * @copyright 2024 Yu 'noyle' Liu
  * @license   GNU Lesser General Public License v3.0
  *
  * Friendly Language Name: 简体中文（中国）
- * Requires MyBB Version:  1827
+ * Requires MyBB Version:  1838
  * Language Pack URI:      https://github.com/yuliu/mybb-language-packs-chinese
  * Language Pack Author:   Yu 'noyle' Liu
  * Author URI:             https://github.com/yuliu
@@ -17,8 +17,10 @@
  */
 
 $l['delete_poll'] = '删除投票';
+$l['open_thread'] = '打开主题';
 $l['close_thread'] = '锁定主题';
 $l['stick_thread'] = '置顶主题';
+$l['unstick_thread'] = '解除置顶';
 $l['author'] = '作者';
 $l['message'] = '内容';
 $l['threaded'] = '树形模式';
@@ -31,9 +33,9 @@ $l['subscribe_thread'] = '订阅该主题';
 $l['unsubscribe_thread'] = '取消订阅该主题';
 $l['add_poll_to_thread'] = '为该主题添加投票';
 $l['moderation_options'] = '主题管理：';
+$l['select_a_tool'] = '选择管理工具';
 $l['delayed_moderation'] = '为管理设置计划任务';
 $l['thread_notes'] = '主题备注及操作记录';
-$l['open_close_thread'] = '打开主题／锁定主题';
 $l['approve_thread'] = '通过主题审核';
 $l['unapprove_thread'] = '标记主题未审核';
 $l['soft_delete_thread'] = '标记主题为已删除';
@@ -41,7 +43,6 @@ $l['restore_thread'] = '恢复已删除主题';
 $l['delete_thread'] = '永久删除主题';
 $l['delete_posts'] = '删除已选择的帖子';
 $l['move_thread'] = '移动主题／复制主题';
-$l['stick_unstick_thread'] = '置顶主题／解除置顶';
 $l['split_thread'] = '分割主题';
 $l['merge_threads'] = '合并主题';
 $l['remove_redirects'] = '解除重定向';
@@ -92,6 +93,8 @@ $l['inline_move_posts'] = '移动帖子';
 $l['inline_approve_posts'] = '通过帖子审核';
 $l['inline_unapprove_posts'] = '标记帖子未审核';
 $l['inline_post_moderation'] = '帖子管理：';
+$l['inline_no_tool_selected'] = '请选择管理工具以执行主题或帖子管理动作。';
+$l['inline_no_post_selected'] = '请至少选择1个帖子以执行管理动作。';
 $l['inline_go'] = '前往';
 $l['clear'] = '重置';
 $l['thread_closed'] = '主题已锁定';

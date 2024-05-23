@@ -5,11 +5,11 @@
  * @language  chinese-cn
  * @link      https://github.com/yuliu/mybb-language-packs-chinese
  * @author    Yu 'noyle' Liu
- * @copyright 2021 Yu 'noyle' Liu
+ * @copyright 2024 Yu 'noyle' Liu
  * @license   GNU Lesser General Public License v3.0
  *
  * Friendly Language Name: 简体中文（中国）
- * Requires MyBB Version:  1827
+ * Requires MyBB Version:  1838
  * Language Pack URI:      https://github.com/yuliu/mybb-language-packs-chinese
  * Language Pack Author:   Yu 'noyle' Liu
  * Author URI:             https://github.com/yuliu
@@ -106,5 +106,8 @@ $l['all_selected'] = '已选择本论坛全部<strong>{1}</strong>个主题。';
 $l['select_all'] = '选择本论坛全部<strong>{1}</strong>个主题。';
 $l['clear_selection'] = '清除选择。';
 $l['deleted_thread'] = '主题已被删除';
+$l['select_a_tool'] = '选择管理工具';
 $l['error_containsnoforums'] = '您正在浏览的论坛没有子论坛。';
+$l['inline_no_tool_selected'] = '请选择管理工具以执行主题或帖子管理动作。';
+$l['inline_no_post_selected'] = '请至少选择1个帖子以执行管理动作。';
 $l['inline_edit_description'] = '（点击并长按以快速编辑标题）';
